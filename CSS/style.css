@@ -41,15 +41,14 @@ body{
     justify-content: center;
     width: 50%;
 }
-.p1{
+#b1{
     padding: 15px;
-    background-color: black;
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
-.p2{
-    padding: 15px;
-    background-color: black;
+#b2{
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
@@ -64,15 +63,13 @@ body{
     background-color: white;
     width: 50%;
 }
-.pa1{
-    padding: 15px;
-    background-color: black;
+#b1a{
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
-.pa2{
-    padding: 15px;
-    background-color: black;
+#b2a{
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
@@ -87,15 +84,13 @@ body{
     background-color: white;
     width: 50%;
 }
-.par1{
-    padding: 15px;
-    background-color: black;
+#bt1{
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
-.par2{
-    padding: 15px;
-    background-color: black;
+#bt2{
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
@@ -110,16 +105,14 @@ body{
     background-color: white;
     width: 50%;
 }
-.parg{
-    padding: 15px;
-    background-color: black;
+#btm1{
+    background-color:white;
     margin: 15px;
     width: fit-content;
     margin: 15px;
 }
-.parg2{
-    padding: 15px;
-    background-color: black;
+#btm2{
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
@@ -135,15 +128,13 @@ body{
     background-color: white;
     width: 50%;
 }
-.pg1{
-    padding: 15px;
-    background-color: black;
+#ba{
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
-.pg2{
-    padding: 15px;
-    background-color: black;
+#ba2{
+    background-color: white;
     width: fit-content;
     margin: 15px;
 }
