@@ -1,0 +1,18 @@
+.quest{
+    
+    justify-content: center;
+    text-align: center;
+    color: black;
+    border: 2px solid brown;
+    background-color: grey;
+
+}
+.quest ul>li{
+    color: lime;
+    list-style-type: none;
+    display: inline;
+    margin: 10px;
+    font-weight: bolder;
+    justify-content: right;
+    text-shadow: 5px 5px 3px white;
+}
