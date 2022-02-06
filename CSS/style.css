@@ -41,17 +41,6 @@ body{
     justify-content: center;
     width: 50%;
 }
-#b1{
-    padding: 15px;
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
-}
-#b2{
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
-}
 .quest2{
     font-style: italic;
     color: blue;
@@ -62,16 +51,6 @@ body{
     border-radius: 15px;
     background-color: white;
     width: 50%;
-}
-#b1a{
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
-}
-#b2a{
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
 }
 .quest3{
     font-style: italic;
@@ -84,16 +63,7 @@ body{
     background-color: white;
     width: 50%;
 }
-#bt1{
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
-}
-#bt2{
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
-}
+
 .quest4{
     font-style: italic;
     color: blue;
@@ -105,17 +75,8 @@ body{
     background-color: white;
     width: 50%;
 }
-#btm1{
-    background-color:white;
-    margin: 15px;
-    width: fit-content;
-    margin: 15px;
-}
-#btm2{
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
-}
+
+ 
 .quest5{
     font-style: italic;
     color: blue;
@@ -127,14 +88,4 @@ body{
     border-radius: 15px;
     background-color: white;
     width: 50%;
-}
-#ba{
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
-}
-#ba2{
-    background-color: white;
-    width: fit-content;
-    margin: 15px;
 }
