@@ -13,6 +13,7 @@ THis is a website of taking short quizes.
 * Next click on this live link.
 * Now just beign your quiz experience.
 * Click to view design https://www.figma.com/file/TXpaACujoVLnhnUE7ARigd/QUIZ-BOARD?node-id=0%3A1
+* Click to see live link https://joseph-oderoh.github.io/project_three/
 
 ## Contacts
 You can reach me:
