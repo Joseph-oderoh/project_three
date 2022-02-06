@@ -1,6 +1,7 @@
 html{
     margin: 20px;
 }
+
 body{
     background-image: url("/images/pexels-pixabay-207756.jpg");
     background-size: cover;
@@ -88,4 +89,10 @@ body{
     border-radius: 15px;
     background-color: white;
     width: 50%;
+}
+.score{
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    background-color: pink;
 }

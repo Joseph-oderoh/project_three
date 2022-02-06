@@ -2,7 +2,7 @@ var correctAsw = {
     loop: "while loop",
     per: "remainder",
     data: "let" ,
-    syntax: "1f(condition){What to do if condition is true}",
+    syntax: "1f(condition){What do if condition is true}",
     var1: "Sting"      
     };
     // getting data from form 
@@ -16,17 +16,17 @@ geta.addEventListener("submit", function (event) {
 
     event.preventDefault();
     // for info on submited data
-    var geta = new FormData(geta);
-    compareData(geta);
+    var getaData = new FormData(geta);
+    compareData(getaData);
     
     
 });
-function compareData(geta) {
-    var loop = geta.get("while loop");
-    var per = geta.get("remainder");
-    var  data = geta.get("let");
-    var syntax = geta.get("1f(condition){What to do if condition is true}");
-    var var1 = geta.get("String");
+function compareData(getaData) {
+    var loop = getaData.get("while loop");
+    var per = getaData.get("remainder");
+    var  data = getaData.get("let");
+    var syntax = getaData.get("1f(condition){What to do if condition is true}");
+    var var1 = getaData.get("String");
 
 
     if (loop === correctAsw["while loop"]){
@@ -64,7 +64,7 @@ function compareData(geta) {
 		alert("incorrect");
 	}
     let score = document.querySelector(".score");
-	geta.textContent = score;
+	score.textContent = score;
 	score.style.color = "red";
 	geta.style.display = "none";
 
