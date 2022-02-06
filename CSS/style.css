@@ -25,7 +25,7 @@ body{
     text-shadow: 5px 5px 3px white;
 }
 #og{
-    color: blue;
+    color: black;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -42,7 +42,7 @@ body{
     justify-content: center;
     width: 50%;
 }
-.quest2{
+.h4a{
     font-style: italic;
     color: blue;
     padding: 10x;
