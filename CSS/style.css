@@ -30,27 +30,31 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: 2px solid blue;
+    box-shadow: 5px 4px 5px;
+    background-color: coral;
 }
 .h4a{
     font-style: italic;
     color: blue;
-    padding: 20x;
+    padding: 20px;
     border: 2px solid lime;
     margin: 10px;
     border-radius: 15px;
     background-color: white;
     justify-content: center;
     width: 50%;
+    box-shadow: 5px 4px 5px;
 }
 .h4b{
     font-style: italic;
     color: blue;
     padding: 10x;
     border: 2px solid lime;
-    width: fit-content;
     margin: 10px;
     border-radius: 15px;
     background-color: white;
+    box-shadow: 5px 4px 5px;
     width: 50%;
 }
 .h4c{
@@ -58,10 +62,10 @@ body{
     color: blue;
     padding: 10x;
     border: 2px solid lime;
-    width: fit-content;
     margin: 10px;
     border-radius: 15px;
     background-color: white;
+    box-shadow: 5px 4px 5px;
     width: 50%;
 }
 
@@ -74,6 +78,7 @@ body{
     margin: 10px;
     border-radius: 45px;
     background-color: white;
+    box-shadow: 5px 4px 5px;
     width: 50%;
 }
 
@@ -88,6 +93,7 @@ body{
     margin: 10px;
     border-radius: 15px;
     background-color: white;
+    box-shadow: 5px 4px 5px;
     width: 50%;
 }
 .score{
