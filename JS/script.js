@@ -17,7 +17,7 @@ geta.addEventListener("submit", function (event) {
     event.preventDefault();
     // for info on submited data
     var geta = new FormData(geta);
-    compareData(geta)
+    compareData(geta);
     
     
 });
@@ -63,9 +63,9 @@ function compareData(geta) {
 		
 		alert("incorrect");
 	}
-    let geta = document.querySelector(".score");
+    let score = document.querySelector(".score");
 	geta.textContent = score;
-	userScore.style.color = "red";
+	score.style.color = "red";
 	geta.style.display = "none";
 
 
