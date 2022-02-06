@@ -30,14 +30,14 @@ function compareData(getaData) {
 
 
     if (loop === correctAsw["while loop"]){
-       score += 2;
+       score += 5;
 
 	}
     else{
         alert("incorrect");
     }
     if (per === correctAsw["remainder"]) {
-		score += 3;
+		score += 5;
 	} 
     else {
 		// if the user answer is wrong/false
@@ -45,7 +45,7 @@ function compareData(getaData) {
 	}
 
 	if (data === correctAsw["let"]) {
-		score += 4;
+		score += 5;
 	}
      else {
 		
@@ -61,7 +61,7 @@ function compareData(getaData) {
         alert("incorrect");
 	}
     if (var1 === correctAsw["String"]) {
-		score += 6;
+		score += 5;
 	} 
     else {
 		
