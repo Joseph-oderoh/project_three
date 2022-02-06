@@ -38,28 +38,32 @@ function compareData(getaData) {
     }
     if (per === correctAsw["remainder"]) {
 		score += 3;
-	} else {
+	} 
+    else {
 		// if the user answer is wrong/false
 		alert("incorrect");
 	}
 
 	if (data === correctAsw["let"]) {
 		score += 4;
-	} else {
+	}
+     else {
 		
 		alert("incorrect");
 	}
 
 	if (syntax === correctAsw["if(condition){What to do if condition is true}"]) {
 		score += 5;
-	} else {
+	} 
+    else {
 		
 	
         alert("incorrect");
 	}
     if (var1 === correctAsw["String"]) {
 		score += 6;
-	} else {
+	} 
+    else {
 		
 		alert("incorrect");
 	}
